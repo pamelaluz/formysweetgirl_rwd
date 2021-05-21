@@ -1,0 +1,91 @@
+.div1 {
+    width: 190px;
+    border: 1px solid;
+    background: grey;
+    font-family: arial;
+    padding: 5px 10px;
+    color: #f4e8f7;
+    border-radius: 3px;
+    margin: 30px 0px 0px 300px;
+}
+.div2 {
+    width: 100px;
+    border: 1px solid;
+    background: grey;
+    font-family: arial;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 3px;
+    margin: 0px 0px 0px 80px;
+}
+.div3 {
+    width: 700px;
+    border: 1px solid;
+    background: grey;
+    font-family: arial;
+    padding: 0px 0px;
+    color: white;
+    border-radius: 3px;
+    margin: 0px 0px 0px 80px;
+}
+.div4 {
+    width: 185px;
+    border: 1px solid;
+    background: grey;
+    font-family: arial;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 3px;
+    margin: 20px 0px 0px 300px;
+}
+.div5 {
+    width: 162px;
+    border: 1px solid;
+    background: grey;
+    font-family: arial;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 3px;
+    margin: 0px 0px 0px 200px;
+}
+.div6 {
+    width: 85px;
+    height: 15px;
+    border: 1px solid;
+    background: grey;
+    font-family: fantasy;
+    padding: 2px 3px;
+    color: white;
+    border-radius: 3px;
+    margin: 10px 0px 0px 200px;
+    font-size: 11px;
+}
+
+.div7 {
+    margin: 0px 0px 0px 200px;
+    font-size: 10px;
+    width: 270px;
+    background: grey;
+    color: white;
+    border-radius: 3px;
+    border: 1px solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+*{
+    background-color: rgb(245, 179, 245);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+    .div0 {
+        background-image: url("https://imgur.com/a/6S052da");
+        background-size: 100px;
+        
+        background-attachment: fixed;
+        width: 1075px;
+    }
+    
+    © 2021 GitHub, Inc.
