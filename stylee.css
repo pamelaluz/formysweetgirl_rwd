@@ -72,7 +72,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 *{
-    background-color: rgb(245, 179, 245);
+    background-color:rgb(161, 233, 176);
 }
 
 a {
@@ -81,11 +81,10 @@ a {
 }
 
     .div0 {
-        background-image: url("https://imgur.com/a/6S052da.jpg");
+        background: linear-gradient(rgba(46, 173, 34, 0.5), rgba(0,0,0,.50)100%), url("https://i.imgur.com/LWFFJf8.jpg");
+        background-image: url("https://i.imgur.com/LWFFJf8.jpg");
         background-size: 100px;
-        
         background-attachment: fixed;
-        width: 1075px;
+        width: 1000px;
     }
-    
     © 2021 GitHub, Inc.
